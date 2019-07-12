@@ -1,0 +1,7 @@
+module.exports = {
+  ERROR: 'ERROR',
+  NOT_FOUND: 'NOT_FOUND',
+  FORBIDDEN: 'FORBIDDEN',
+  DONE: 'DONE',
+  NOTIFICATION: 'NOTIFICATION',
+};
