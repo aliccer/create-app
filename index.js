@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 /* eslint-disable consistent-return */
 /* eslint-disable no-console */
 /* eslint-disable no-use-before-define */
