@@ -9,7 +9,7 @@
     "node"
   ],
   "bin": {
-    "create-my-app": "./index.js"
+    "create-app": "./index.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
